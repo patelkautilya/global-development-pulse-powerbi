@@ -4,6 +4,8 @@
 
 The World Bank API lists 217 country economies after excluding aggregates. In 2024, 200 have GDP per capita, 217 have life expectancy, 182 have Internet-use estimates, and 182 have modeled unemployment estimates. **165** have all four and form the comparable KPI sample. Every number below is a median across these 165 country economies, unweighted by population.
 
+The Power BI report deliberately shows metric-specific non-missing coverage, rather than applying the complete-case restriction to every visual. Its unfiltered 2024 Internet KPI is **82.10%** across 182 economies, and the Sub-Saharan Africa bar is **36.80%** across 45 economies. These match independent calculations from the curated CSV. The complete-case medians below answer a different, common-sample question.
+
 | 2024 KPI | Median |
 | --- | ---: |
 | GDP per capita, current US$ | $7,649.82 |
