@@ -1,0 +1,44 @@
+{
+  "source_accessed_utc": "2026-11-04",
+  "sources": {
+    "country_metadata": "https://api.worldbank.org/v2/country?format=json&per_page=500",
+    "indicators": {
+      "NY.GDP.PCAP.CD": "https://api.worldbank.org/v2/country/all/indicator/NY.GDP.PCAP.CD?format=json&per_page=20000&date=2020:2024",
+      "SP.DYN.LE00.IN": "https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&per_page=20000&date=2020:2024",
+      "IT.NET.USER.ZS": "https://api.worldbank.org/v2/country/all/indicator/IT.NET.USER.ZS?format=json&per_page=20000&date=2020:2024",
+      "SL.UEM.TOTL.ZS": "https://api.worldbank.org/v2/country/all/indicator/SL.UEM.TOTL.ZS?format=json&per_page=20000&date=2020:2024"
+    }
+  },
+  "country_economies": 217,
+  "panel_rows": 1085,
+  "year_2024_complete_cases": 165,
+  "year_2024_non_missing": {
+    "gdp_per_capita_current_usd": 200,
+    "life_expectancy_years": 217,
+    "internet_users_pct": 182,
+    "unemployment_pct": 182
+  },
+  "year_2024_complete_case_medians": {
+    "gdp_per_capita_current_usd": 7649.81663744354,
+    "life_expectancy_years": 74.576,
+    "internet_users_pct": 81.95705992,
+    "unemployment_pct": 5.051
+  },
+  "year_2024_region_complete_cases": {
+    "East Asia & Pacific": 21,
+    "Europe & Central Asia": 46,
+    "Latin America & Caribbean": 27,
+    "Middle East, North Africa, Afghanistan & Pakistan": 19,
+    "North America": 2,
+    "South Asia": 6,
+    "Sub-Saharan Africa": 44
+  },
+  "life_expectancy_below_40_review": [
+    {
+      "country": "Central African Republic",
+      "year": 2022,
+      "source_value": 18.818
+    }
+  ]
+}
+
