@@ -1,6 +1,6 @@
 # Global Development Pulse | World Bank indicators
 
-A Power BI portfolio project comparing economic, health, digital access, and labor indicators across country economies. The curated panel covers **217 country economies** from **2020–2024**; regional and income aggregates are excluded. The 2024 comparison view uses **165 complete cases** with all four indicators available.
+A Power BI portfolio project comparing economic, health, digital access, and labor indicators across country economies. The curated panel covers **217 country economies** from **2020–2024**; regional and income aggregates are excluded. A separate 2024 four-indicator comparison uses **165 complete cases**; dashboard visuals use metric-specific non-missing coverage.
 
 ## Power BI report
 
